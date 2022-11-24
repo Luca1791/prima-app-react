@@ -1,3 +1,5 @@
+
+
 function Navbar(){
     return (
         <nav>
@@ -8,6 +10,8 @@ function Navbar(){
                 <li>Contatti</li>
             </ul>
         </nav>
+        
+        
     )
 }
 

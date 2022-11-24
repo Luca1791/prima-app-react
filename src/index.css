@@ -1,6 +1,17 @@
 body {
   display: flex;
   gap: 1rem;
-  background-color: gray;
+}
+
+header{
+  border: 1px solid green;
+}
+
+main{
+  border: 1px solid red;
+}
+
+footer{
+  border: 1px solid blue;
 }
 
